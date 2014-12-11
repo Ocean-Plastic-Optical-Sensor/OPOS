@@ -1,5 +1,5 @@
-OPOS
-====
+(Ocean Plastic Optical Sensor)
+
 #Overview
 **Goal** : We want to 1. Locate, 2. Qualify, 3. Quantify plastic debris in the Ocean using Optics and Machine Learning.<br>
 
@@ -18,15 +18,11 @@ We are now migrating the content of our instructables on GitHub so everyone who 
 
 **Email** oceanplasticopticalsensor@gmail.com for any questions
 
-====
-
 #People
 - Oriol Segarra, The Ocean Cleanup oriol.segarra@theoceancleanup.com
 - Cesar Harada, Scoutbots & The Hong Kong Harbour School contact@cesarharada.com
 - Edward Fung, edwardfung123@gmail.com
 - You, Please add you name, organisation and email to be reachable. 
-
-====
 
 #To do 
 
@@ -39,8 +35,6 @@ We are now migrating the content of our instructables on GitHub so everyone who 
 - [ ] Identify potential components for the Sensor
 - [ ] document the last version of the Ocean Plastic Optical Sensor (Cesar HARADA) 
   - [ ] More, please add
-  
-====
 
 #Licenses
 - *Hardware* : CERN Open Hardware License version 1.2. http://www.ohwr.ora/proiects/cemohl/wiki
